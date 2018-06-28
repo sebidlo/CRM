@@ -31,6 +31,13 @@ echo "<p>{$activity->asHtmlTableRow()}</p>";
 
 echo '</table>';
 
+echo "<p>";
+var_dump($activities[0]);
+echo "</p>";
+
+echo "<p>";
+var_dump($activity);
+echo "</p>";
 
 
 
