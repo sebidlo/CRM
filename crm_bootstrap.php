@@ -11,8 +11,8 @@ $salesman2 = new Salesman(2, "Jakis facet");
 $salesman3 = new Salesman(3, "Anna AAA");
 
 $company = new Company(1, "Firma AAAA");
-$company2 = new Company(2, "Firma 2");
-$company3 = new Company(3, "Firma 3");
+$company2 = new Company(2, "Firma 20");
+$company3 = new Company(3, "Firma 30");
 
 
 $activities = array (
